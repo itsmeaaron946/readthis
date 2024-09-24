@@ -1,1 +1,1 @@
-# readthis
+When you downloaded the requirements below, when you download the Level, put those level files into your "CustomLevels" Folder, it should be located when you join the game, click "About" in the main screen, then click "Save Folder", The "CustomLevels" Folder should be there. Now put those level files into the "CustomLevels" Folder, then join the game and click "Editor", then click the "Folder" icon, it should start loading up.
